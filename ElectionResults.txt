@@ -1,0 +1,6 @@
+----- Election Results -----
+Asha received 3 votes.
+Meera received 1 votes.
+Raji received 1 votes.
+
+ Winner: Asha with 3 votes!
